@@ -1,0 +1,42 @@
+[
+  {
+    "firstName": "Toyosi",
+    "lastName": "Olayiwola",
+    "phoneNumber": "+234 703 7148 172"
+  },
+  {
+    "firstName": "Soumyojyoti ",
+    "lastName": "Majumdar",
+    "phoneNumber": "+91 0123 456 7899"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Colman",
+    "phoneNumber": "+22 0123 456 7899"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Philip",
+    "phoneNumber": "+23 0123 456 7899"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Peters",
+    "phoneNumber": "+24 0123 456 7899"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Haman",
+    "phoneNumber": "+25 0123 456 7899"
+  },
+  {
+    "firstName": "Natasha",
+    "lastName": "Preciious",
+    "phoneNumber": "+26 0123 456 7899"
+  },
+  {
+    "firstName": "Vivian",
+    "lastName": "Wright",
+    "phoneNumber": "+27 0123 456 7899"
+  }
+]
